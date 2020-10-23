@@ -2,4 +2,4 @@
 
 
 
-Минималистичный docker контейнер, чтобы попробовать https://github.com/sberbank-ai/ru-gpts
+Минималистичный docker контейнер, для пробы https://github.com/sberbank-ai/ru-gpts
