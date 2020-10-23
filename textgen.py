@@ -11,7 +11,7 @@ stop_token = '</s>'
 def generate_text(prefix, length=90, k=50, p=0.9, temperature=0.89, append_prefix=True):
     '''
     :param prefix: prefix for generating
-    :param length: max lenght of sequence
+    :param length: max length of sequence
     :param top_k: select top-k predicted words and sample from it
     :param top_p: nucleuos sampling (find minimal subset of words whose probabilities' sum = p)
     :param temperature: softmax temperature
